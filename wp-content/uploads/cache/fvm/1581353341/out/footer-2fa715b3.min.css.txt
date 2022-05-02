@@ -1,0 +1,4 @@
+PROCESSED on Mon, 10 Feb 2020 18:11:14 +0000
+/wp-content/uploads/elementor/css/post-640.css
+/wp-content/uploads/elementor/css/post-933.css
+PROCESSED from https://www.donnbarbearia.com.br/

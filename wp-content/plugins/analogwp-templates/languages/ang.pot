@@ -1,0 +1,1977 @@
+# Copyright (C) 2022 AnalogWP
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Style Kits for Elementor 1.8.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/analogwp-templates\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-14T20:43:53+09:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: ang\n"
+
+#: client/Modal.js:82
+#: languages/ang-translations.php:10
+msgid "Exit preview"
+msgstr ""
+
+#: client/Modal.js:87
+#: client/modal/Preview.js:91
+#: languages/ang-translations.php:15
+msgid "Open in new tab"
+msgstr ""
+
+#: client/Modal.js:93
+#: client/modal/Preview.js:97
+#: languages/ang-translations.php:20
+msgid "Import Template"
+msgstr ""
+
+#: client/Nav.js:6
+#: languages/ang-translations.php:24
+msgid "Templates"
+msgstr ""
+
+#: client/Nav.js:8
+#: inc/elementor/class-ang-action.php:122
+#: inc/elementor/class-post-type.php:32
+#: inc/elementor/class-post-type.php:41
+#: inc/elementor/class-typography.php:697
+#: inc/elementor/kit/Kits_List_Table.php:320
+#: inc/elementor/kit/tabs/Theme_Style_Kits.php:46
+#: inc/register-settings.php:27
+#: inc/register-settings.php:56
+#: languages/ang-translations.php:36
+msgid "Style Kits"
+msgstr ""
+
+#: client/Nav.js:9
+#: languages/ang-translations.php:40
+msgid "Blocks"
+msgstr ""
+
+#: client/ProModal.js:7
+#: languages/ang-translations.php:44
+msgid "To import Pro "
+msgstr ""
+
+#: client/ProModal.js:7
+#: languages/ang-translations.php:48
+msgid ", you’ll need an active "
+msgstr ""
+
+#: client/ProModal.js:7
+#: inc/settings/class-settings-gopro.php:27
+#: languages/ang-translations.php:53
+msgid "Style Kits Pro"
+msgstr ""
+
+#: client/ProModal.js:7
+#: languages/ang-translations.php:57
+msgid "license."
+msgstr ""
+
+#: client/ProModal.js:9
+#: client/blocks/Sidebar.js:17
+#: languages/ang-translations.php:62
+msgid "Learn More"
+msgstr ""
+
+#: client/Synchronization.js:13
+#: inc/register-settings.php:37
+#: languages/ang-translations.php:67
+msgid "Style Kits Library"
+msgstr ""
+
+#: client/Synchronization.js:26
+#: languages/ang-translations.php:71
+msgid "Templates library refreshed"
+msgstr ""
+
+#: client/Synchronization.js:27
+#: languages/ang-translations.php:75
+msgid "Error refreshing templates library, please try again."
+msgstr ""
+
+#: client/Synchronization.js:31
+#: languages/ang-translations.php:79
+msgid "Syncing..."
+msgstr ""
+
+#: client/Synchronization.js:32
+#: languages/ang-translations.php:83
+msgid "Sync Library"
+msgstr ""
+
+#: client/Synchronization.js:41
+#: languages/ang-translations.php:87
+msgid "Close"
+msgstr ""
+
+#: client/Template.js:18
+#: client/blocks/BlockList.js:323
+#: languages/ang-translations.php:92
+msgid "New"
+msgstr ""
+
+#: client/Template.js:25
+#: client/stylekits/stylekits.js:225
+#: languages/ang-translations.php:97
+msgid "Preview"
+msgstr ""
+
+#. translators: %1$s: Link to Style Kits Pro. %2$s: Go Pro text.
+#. translators: translators: %1$s: Link to Style Kits Pro. %2$s: Go Pro text. translators: translators: %1$s: Link to Style Kits Pro. %2$s: Go Pro text.
+#: client/Template.js:29
+#: client/blocks/BlockList.js:338
+#: client/stylekits/stylekits.js:231
+#: inc/elementor/Promotions.php:137
+#: inc/Plugin.php:206
+#: inc/register-settings.php:76
+#: languages/ang-translations.php:108
+msgid "Go Pro"
+msgstr ""
+
+#: client/Template.js:34
+#: client/blocks/BlockList.js:345
+#: client/stylekits/stylekits.js:298
+#: languages/ang-translations.php:114
+msgid "Import"
+msgstr ""
+
+#: client/Template.js:62
+#: client/blocks/BlockList.js:364
+#: client/filters.js:38
+#: client/stylekits/stylekits.js:251
+#: languages/ang-translations.php:121
+msgid "Pro"
+msgstr ""
+
+#: client/Templates.js:268
+#: languages/ang-translations.php:125
+msgid "This template requires an updated version, please update your plugin to latest version."
+msgstr ""
+
+#: client/Templates.js:362
+#: languages/ang-translations.php:129
+msgid "templates"
+msgstr ""
+
+#: client/api.js:213
+#: languages/ang-translations.php:133
+msgid "Template"
+msgstr ""
+
+#: client/api.js:216
+#: languages/ang-translations.php:137
+msgid "Block"
+msgstr ""
+
+#: client/api.js:224
+#: languages/ang-translations.php:141
+msgid "Add Style Kits"
+msgstr ""
+
+#: client/blocks/BlockList.js:259
+#: languages/ang-translations.php:145
+msgid "The block has been imported and is now available in the"
+msgstr ""
+
+#: client/blocks/BlockList.js:270
+#: languages/ang-translations.php:149
+msgid "Elementor section library"
+msgstr ""
+
+#: client/blocks/BlockList.js:284
+#: client/stylekits/stylekits.js:325
+#: languages/ang-translations.php:154
+msgid "Ok, thanks"
+msgstr ""
+
+#: client/blocks/BlockList.js:296
+#: languages/ang-translations.php:158
+msgid "Search blocks"
+msgstr ""
+
+#: client/blocks/BlockList.js:305
+#: languages/ang-translations.php:162
+msgid "blocks"
+msgstr ""
+
+#: client/blocks/BlockList.js:309
+#: languages/ang-translations.php:166
+msgid "No blocks found."
+msgstr ""
+
+#: client/blocks/Sidebar.js:13
+#: languages/ang-translations.php:170
+msgid "Upgrade to Style Kits Pro"
+msgstr ""
+
+#: client/blocks/Sidebar.js:14
+#: languages/ang-translations.php:174
+msgid "Enjoy unlimited access to the template and block library, along with many more features in Style Kits Pro."
+msgstr ""
+
+#: client/blocks/Sidebar.js:21
+#: languages/ang-translations.php:178
+msgid "Quick video"
+msgstr ""
+
+#: client/blocks/Sidebar.js:277
+#: languages/ang-translations.php:182
+msgid "Show Pro Blocks"
+msgstr ""
+
+#: client/blocks/blocks.js:126
+#: languages/ang-translations.php:186
+msgid "Loading blocks..."
+msgstr ""
+
+#: client/collection/Collection.js:112
+#: languages/ang-translations.php:190
+msgid "View Templates"
+msgstr ""
+
+#: client/filters.js:146
+#: languages/ang-translations.php:194
+msgid "Search templates..."
+msgstr ""
+
+#: client/filters.js:27
+#: languages/ang-translations.php:198
+msgid "All template types"
+msgstr ""
+
+#: client/filters.js:32
+#: languages/ang-translations.php:202
+msgid "Newest first"
+msgstr ""
+
+#: client/filters.js:33
+#: languages/ang-translations.php:206
+msgid "Popular"
+msgstr ""
+
+#: client/filters.js:37
+#: languages/ang-translations.php:210
+msgid "Both Free and Pro"
+msgstr ""
+
+#: client/filters.js:39
+#: languages/ang-translations.php:214
+msgid "Free"
+msgstr ""
+
+#: client/filters.js:50
+#: languages/ang-translations.php:218
+msgid "Template Kit"
+msgstr ""
+
+#: client/filters.js:60
+#: languages/ang-translations.php:222
+msgid "Back to all Kits"
+msgstr ""
+
+#: client/filters.js:74
+#: languages/ang-translations.php:226
+msgid "Back to all"
+msgstr ""
+
+#: client/filters.js:75
+#: languages/ang-translations.php:230
+msgid "Favorites"
+msgstr ""
+
+#: client/filters.js:82
+#: languages/ang-translations.php:234
+msgid "Group by Template Kit"
+msgstr ""
+
+#: client/modal/Preview.js:104
+#: languages/ang-translations.php:238
+msgid "Loading icon"
+msgstr ""
+
+#: client/modal/Preview.js:86
+#: languages/ang-translations.php:242
+msgid "Back to Library"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:103
+#: inc/elementor/class-typography.php:355
+#: inc/elementor/class-typography.php:856
+#: languages/ang-translations.php:248
+msgid "Default"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:107
+#: languages/ang-translations.php:252
+msgid "Installed"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:134
+#: languages/ang-translations.php:256
+msgid "Learn more about this in %s."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:137
+#: languages/ang-translations.php:260
+msgid "Style Kits Docs"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:155
+#: languages/ang-translations.php:264
+msgid "The Global Style Kit will be applied on this template"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:156
+#: languages/ang-translations.php:268
+msgid "Choose a Theme Style Kit to apply on the page."
+msgstr ""
+
+#. 1: Global Style Kit label
+#. translators: 1: Global Style Kit label translators: 1: Global Style Kit label
+#: client/popups/ImportTemplate.js:161
+#: languages/ang-translations.php:274
+msgid "%1$s"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:164
+#: languages/ang-translations.php:278
+msgid "The original Style Kit is pre-selected for you."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:172
+#: languages/ang-translations.php:282
+msgid "Choose a Style Kit..."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:183
+#: languages/ang-translations.php:286
+msgid "You can change the default import method at the "
+msgstr ""
+
+#: client/popups/ImportTemplate.js:189
+#: languages/ang-translations.php:290
+msgid "You can manage and set a Global Style Kit at the "
+msgstr ""
+
+#: client/popups/ImportTemplate.js:190
+#: languages/ang-translations.php:294
+msgid "Settings Page"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:204
+#: languages/ang-translations.php:298
+msgid "Import the template in the current page."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:224
+#: languages/ang-translations.php:302
+msgid "Import to current page"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:235
+#: languages/ang-translations.php:306
+msgid "Import this template to your library to make it available in your Elementor "
+msgstr ""
+
+#: client/popups/ImportTemplate.js:236
+#: languages/ang-translations.php:310
+msgid "Saved Templates"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:237
+#: languages/ang-translations.php:314
+msgid " list for future use."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:257
+#: languages/ang-translations.php:318
+msgid "Import to Library"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:266
+#: languages/ang-translations.php:322
+msgid "Import to a new page"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:267
+#: languages/ang-translations.php:326
+msgid "Create a new page from this template to make it available as a draft page in your Pages list."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:271
+#: languages/ang-translations.php:330
+msgid "Enter a Page Name"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:286
+#: languages/ang-translations.php:334
+msgid "Import to page"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:299
+#: languages/ang-translations.php:338
+msgid "All done! The template has been imported."
+msgstr ""
+
+#: client/popups/ImportTemplate.js:305
+#: languages/ang-translations.php:342
+msgid "Edit Template"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:75
+#: languages/ang-translations.php:346
+msgid "Import template"
+msgstr ""
+
+#: client/popups/ImportTemplate.js:99
+#: languages/ang-translations.php:350
+msgid "Global"
+msgstr ""
+
+#: client/stylekits/stylekits.js:185
+#: languages/ang-translations.php:354
+msgid "These are some Style Kit presets that you can use as a starting point. Once you import a Style Kit, it will be added to your"
+msgstr ""
+
+#: client/stylekits/stylekits.js:185
+#: languages/ang-translations.php:358
+msgid "Style Kits list"
+msgstr ""
+
+#: client/stylekits/stylekits.js:186
+#: languages/ang-translations.php:362
+msgid "You will then be able to apply it on any Elementor page."
+msgstr ""
+
+#. translators: %s: Link text
+#. translators: translators: %s: Link text translators: translators: %s: Link text
+#: client/stylekits/stylekits.js:187
+#: inc/elementor/class-ang-action.php:119
+#: languages/ang-translations.php:369
+msgid "Learn more"
+msgstr ""
+
+#: client/stylekits/stylekits.js:197
+#: languages/ang-translations.php:373
+msgid "Import Style Kit"
+msgstr ""
+
+#: client/stylekits/stylekits.js:269
+#: languages/ang-translations.php:377
+msgid "A Style Kit already exists with the same name. To import it again please enter a new name below:"
+msgstr ""
+
+#: client/stylekits/stylekits.js:273
+#: languages/ang-translations.php:381
+msgid "Please try a different as a Style Kit with same name already exists."
+msgstr ""
+
+#: client/stylekits/stylekits.js:277
+#: languages/ang-translations.php:385
+msgid "Enter a Style Kit Name"
+msgstr ""
+
+#: client/stylekits/stylekits.js:310
+#: languages/ang-translations.php:389
+msgid "The Style Kit has been imported and is now available in the list of the available Style Kits."
+msgstr ""
+
+#: client/stylekits/stylekits.js:335
+#: languages/ang-translations.php:393
+msgid "Importing "
+msgstr ""
+
+#: client/stylekits/stylekits.js:92
+#: languages/ang-translations.php:397
+msgid "%s <span class=\"footer-text\">in WordPress dashboard.</span>"
+msgstr ""
+
+#: client/stylekits/stylekits.js:95
+#: languages/ang-translations.php:401
+msgid "Manage your Style Kits"
+msgstr ""
+
+#. Plugin Name of the plugin
+#. translators: Plugin Name of the plugin translators: Plugin Name of the plugin
+#: inc/admin/class-admin.php:44
+#: inc/class-tracker.php:131
+#: inc/register-settings.php:26
+#: languages/ang-translations.php:409
+msgid "Style Kits for Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#. translators: Plugin URI of the plugin Author URI of the plugin translators: Plugin URI of the plugin Author URI of the plugin
+#: languages/ang-translations.php:415
+msgid "https://analogwp.com/"
+msgstr ""
+
+#. Description of the plugin
+#. translators: Description of the plugin translators: Description of the plugin
+#: languages/ang-translations.php:420
+msgid "Style Kits extends the Elementor theme styles editor with more global styling options. Boost your design workflow in Elementor with intuitive global controls and theme style presets."
+msgstr ""
+
+#. Author of the plugin
+#. translators: Author of the plugin translators: Author of the plugin
+#: languages/ang-translations.php:425
+msgid "AnalogWP"
+msgstr ""
+
+#. translators: %s: version number
+#. translators: translators: %s: version number translators: translators: %s: version number
+#: analogwp-templates.php:47
+#: analogwp-templates.php:211
+#: languages/ang-translations.php:432
+msgid "Style Kit for Elementor requires PHP version %s"
+msgstr ""
+
+#: analogwp-templates.php:48
+#: analogwp-templates.php:212
+#: languages/ang-translations.php:437
+msgid "Error Activating"
+msgstr ""
+
+#. translators: %s: WordPress version
+#. translators: translators: %s: WordPress version translators: translators: %s: WordPress version
+#: analogwp-templates.php:82
+#: languages/ang-translations.php:443
+msgid "Style Kits requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+
+#. translators: %s: Minimum required Elementor version.
+#. translators: translators: %s: Minimum required Elementor version. translators: translators: %s: Minimum required Elementor version.
+#: analogwp-templates.php:107
+#: languages/ang-translations.php:449
+msgid "Style Kits requires Elementor v%s or newer in order to work. Please update Elementor to the latest version."
+msgstr ""
+
+#. translators: %s: Link to update Elementor.
+#. translators: translators: %s: Link to update Elementor. translators: translators: %s: Link to update Elementor.
+#: analogwp-templates.php:113
+#: languages/ang-translations.php:455
+msgid "Update Elementor Now"
+msgstr ""
+
+#. translators: %s: Version number.
+#. translators: translators: %s: Version number. translators: translators: %s: Version number.
+#: analogwp-templates.php:119
+#: languages/ang-translations.php:461
+msgid "Rollback to v%s"
+msgstr ""
+
+#: analogwp-templates.php:152
+#: languages/ang-translations.php:465
+msgid "An error occurred while checking Elementor is Installed/Activated"
+msgstr ""
+
+#: analogwp-templates.php:185
+#: languages/ang-translations.php:469
+msgid "Style Kits is not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: analogwp-templates.php:186
+#: languages/ang-translations.php:473
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: analogwp-templates.php:193
+#: languages/ang-translations.php:477
+msgid "Style Kits is not working because you need to install the Elementor plugin."
+msgstr ""
+
+#: analogwp-templates.php:194
+#: languages/ang-translations.php:481
+msgid "Install Elementor Now"
+msgstr ""
+
+#. translators: 1: Style Kits for Elementor, 2: Link to plugin review
+#. translators: translators: 1: Style Kits for Elementor, 2: Link to plugin review translators: translators: 1: Style Kits for Elementor, 2: Link to plugin review
+#: inc/admin/class-admin.php:43
+#: languages/ang-translations.php:487
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr ""
+
+#: inc/admin/class-admin.php:65
+#: languages/ang-translations.php:491
+msgid "View Documentation"
+msgstr ""
+
+#: inc/admin/class-admin.php:65
+#: inc/settings/views/html-admin-settings.php:97
+#: languages/ang-translations.php:496
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-admin.php:66
+#: languages/ang-translations.php:500
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/Notice.php:172
+#: languages/ang-translations.php:504
+msgid "Style Kits for Elementor Logo"
+msgstr ""
+
+#: inc/api/class-local.php:127
+#: inc/api/class-local.php:320
+#: languages/ang-translations.php:509
+msgid "Invalid or expired license provided."
+msgstr ""
+
+#: inc/api/class-local.php:393
+#: languages/ang-translations.php:513
+msgid "Setting updated."
+msgstr ""
+
+#: inc/api/class-local.php:452
+#: languages/ang-translations.php:517
+msgid "Invalid param(s)."
+msgstr ""
+
+#: inc/api/class-local.php:456
+#: languages/ang-translations.php:521
+msgid "Please provide a title."
+msgstr ""
+
+#: inc/api/class-local.php:473
+#: languages/ang-translations.php:525
+msgid "Unable to create a Kit"
+msgstr ""
+
+#: inc/api/class-local.php:479
+#: languages/ang-translations.php:529
+msgid "The new Theme Style Kit has been saved and applied on this page."
+msgstr ""
+
+#: inc/api/class-local.php:496
+#: inc/api/class-local.php:526
+#: languages/ang-translations.php:534
+msgid "Please provide a valid post ID."
+msgstr ""
+
+#: inc/api/class-local.php:500
+#: languages/ang-translations.php:538
+msgid "Invalid Post ID"
+msgstr ""
+
+#: inc/api/class-local.php:553
+#: languages/ang-translations.php:542
+msgid "Invalid Style Kit ID."
+msgstr ""
+
+#: inc/api/class-local.php:583
+#: languages/ang-translations.php:546
+msgid "Error occured while requesting Style Kit data."
+msgstr ""
+
+#: inc/api/class-local.php:613
+#: languages/ang-translations.php:550
+msgid "Style Kit imported"
+msgstr ""
+
+#: inc/api/class-local.php:648
+#: languages/ang-translations.php:554
+msgid "Invalid token data returned"
+msgstr ""
+
+#: inc/api/class-local.php:666
+#: languages/ang-translations.php:558
+msgid "Invalid Block ID."
+msgstr ""
+
+#: inc/class-admin-settings.php:76
+#: languages/ang-translations.php:562
+msgid "Your settings have been saved."
+msgstr ""
+
+#: inc/class-admin-settings.php:133
+#: languages/ang-translations.php:566
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: inc/class-admin-settings.php:550
+#: inc/class-admin-settings.php:615
+#: languages/ang-translations.php:571
+msgid "Toggle"
+msgstr ""
+
+#: inc/class-base.php:39
+#: inc/class-base.php:49
+#: languages/ang-translations.php:576
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-cron.php:41
+#: languages/ang-translations.php:580
+msgid "Once Weekly"
+msgstr ""
+
+#: inc/class-elementor.php:46
+#: languages/ang-translations.php:584
+msgid "AnalogWP Classes"
+msgstr ""
+
+#: inc/class-quick-edit.php:92
+#: inc/class-quick-edit.php:146
+#: inc/elementor/class-post-type.php:33
+#: languages/ang-translations.php:590
+msgid "Style Kit"
+msgstr ""
+
+#. translators: %2$s Plugin Name %3%s Review text
+#. translators: translators: %2$s Plugin Name %3%s Review text translators: translators: %2$s Plugin Name %3%s Review text
+#: inc/class-tracker.php:130
+#: languages/ang-translations.php:596
+msgid "Hey! You have been using %1$s for over 2 weeks, we hope you enjoy it! If so, please leave a positive %2$s."
+msgstr ""
+
+#: inc/class-tracker.php:132
+#: languages/ang-translations.php:600
+msgid "review on WordPress.org"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:101
+#: languages/ang-translations.php:604
+msgid "This will clean-up all the values from the current Theme Style kit. If you need to revert, you can do so at the Revisions tab."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:102
+#: languages/ang-translations.php:608
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:103
+#: languages/ang-translations.php:612
+msgid "Save Style Kit as"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:104
+#: languages/ang-translations.php:616
+msgid "Save"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:105
+#: languages/ang-translations.php:620
+msgid "Cancel"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:106
+#: languages/ang-translations.php:624
+msgid "Enter a title"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:107
+#: languages/ang-translations.php:628
+msgid "Insert Style Kit"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:108
+#: inc/elementor/class-ang-action.php:111
+#: languages/ang-translations.php:633
+msgid "Please select a Style Kit first."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:109
+#: languages/ang-translations.php:637
+msgid "— Select a Style Kit —"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:110
+#: languages/ang-translations.php:641
+msgid "Style Kit Updated."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:112
+#: languages/ang-translations.php:645
+msgid "Update Style Kit"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:113
+#: languages/ang-translations.php:649
+msgid "This action will update the Style Kit with the latest changes, and will affect all the pages that the style kit is used on. Do you wish to proceed?"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:114
+#: languages/ang-translations.php:653
+msgid "Meet Style Kits for Elementor"
+msgstr ""
+
+#. translators: %s: Link to Style Kits documentation.
+#. translators: translators: %s: Link to Style Kits documentation. translators: translators: %s: Link to Style Kits documentation.
+#: inc/elementor/class-ang-action.php:117
+#: languages/ang-translations.php:659
+msgid "Take control of your design in the macro level, with local or global settings for typography and spacing. %s."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:121
+#: languages/ang-translations.php:663
+msgid "View Styles"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:123
+#: languages/ang-translations.php:667
+msgid "Export CSS"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:124
+#: languages/ang-translations.php:671
+msgid "Copy CSS"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:125
+msgid "CSS copied"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:126
+#: languages/ang-translations.php:675
+msgid "Style Kit Update Detected"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:127
+#: languages/ang-translations.php:679
+msgid "<p>The Style kit used by this page has been updated, click ‘Apply Changes’ to apply the latest changes.</p><p>Click Discard to keep your current page styles and detach the page from the Style Kit</p>"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:128
+#: languages/ang-translations.php:683
+msgid "Discard"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:129
+#: languages/ang-translations.php:687
+msgid "Apply Changes"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:130
+#: languages/ang-translations.php:691
+msgid "Ok, got it."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:131
+#: languages/ang-translations.php:695
+msgid "Go to Page Style"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:132
+#: languages/ang-translations.php:699
+msgid "This template offers global typography and spacing control, through the Page Style tab."
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:133
+#: languages/ang-translations.php:703
+msgid "Typography, column gaps and more, are controlled layout-wide at Page Styles Panel, giving you the flexibility you need over the design of this template. You can save the styles and apply them to any other page. <a href=\"#\" target=\"_blank\">Learn More.</a>"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:134
+#: languages/ang-translations.php:707
+msgid "CSS Variables"
+msgstr ""
+
+#: inc/elementor/class-ang-action.php:135
+#: languages/ang-translations.php:711
+msgid "Remove Page ID from the CSS"
+msgstr ""
+
+#: inc/elementor/class-colors.php:223
+#: languages/ang-translations.php:1553
+msgctxt "Section Title"
+msgid "Accent Colors"
+msgstr ""
+
+#. translators: %1$s: Link to documentation, %2$s: Link text.
+#. translators: translators: %1$s: Link to documentation, %2$s: Link text. translators: translators: %1$s: Link to documentation, %2$s: Link text.
+#: inc/elementor/class-colors.php:232
+#: languages/ang-translations.php:717
+msgid "Set the accent colors of your layout."
+msgstr ""
+
+#. translators: %1$s: Link to documentation, %2$s: Link text.
+#. translators: translators: %1$s: Link to documentation, %2$s: Link text. translators: translators: %1$s: Link to documentation, %2$s: Link text.
+#: inc/elementor/class-colors.php:232
+#: inc/elementor/class-typography.php:264
+#: inc/elementor/class-typography.php:313
+#: inc/elementor/class-typography.php:374
+#: inc/elementor/class-typography.php:427
+#: inc/elementor/class-typography.php:495
+#: languages/ang-translations.php:728
+msgid "Learn more."
+msgstr ""
+
+#: inc/elementor/class-colors.php:298
+#: languages/ang-translations.php:732
+msgid "The primary accent color applies on links, icons, and other elements. You can also define the text link color in the Typography panel."
+msgstr ""
+
+#: inc/elementor/class-colors.php:302
+#: languages/ang-translations.php:736
+msgid "Primary Accent"
+msgstr ""
+
+#: inc/elementor/class-colors.php:321
+#: languages/ang-translations.php:740
+msgid "The default button color. You can also define button colors under the Buttons panel, and individually for each button size under Buttons Sizes panel."
+msgstr ""
+
+#: inc/elementor/class-colors.php:325
+#: languages/ang-translations.php:744
+msgid "Secondary Accent"
+msgstr ""
+
+#: inc/elementor/class-finder-shortcuts.php:23
+#: languages/ang-translations.php:748
+msgid "Style Kits for Elementor Shortcuts"
+msgstr ""
+
+#: inc/elementor/class-finder-shortcuts.php:36
+#: languages/ang-translations.php:752
+msgid "Templates Library"
+msgstr ""
+
+#: inc/elementor/class-finder-shortcuts.php:42
+#: inc/elementor/kit/Manager.php:307
+#: inc/Plugin.php:200
+#: inc/register-settings.php:46
+#: languages/ang-translations.php:759
+msgid "Settings"
+msgstr ""
+
+#: inc/elementor/class-finder-shortcuts.php:48
+#: inc/register-settings.php:57
+#: languages/ang-translations.php:764
+msgid "Theme Style Kits"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:34
+#: languages/ang-translations.php:1569
+msgctxt "admin menu"
+msgid "Style Kits"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:35
+#: languages/ang-translations.php:1573
+msgctxt "add new on admin bar"
+msgid "Style Kit"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:36
+#: languages/ang-translations.php:1577
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:37
+#: languages/ang-translations.php:768
+msgid "Add New Style Kit"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:38
+#: languages/ang-translations.php:772
+msgid "New Style Kit"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:39
+#: languages/ang-translations.php:776
+msgid "Edit Style Kit"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:40
+#: languages/ang-translations.php:780
+msgid "View Style Kit"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:42
+#: languages/ang-translations.php:784
+msgid "Search Style Kits"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:43
+#: languages/ang-translations.php:788
+msgid "Parent Style Kits:"
+msgstr ""
+
+#: inc/elementor/class-post-type.php:44
+#: languages/ang-translations.php:792
+msgid "No Style Kit found."
+msgstr ""
+
+#: inc/elementor/class-post-type.php:45
+#: languages/ang-translations.php:796
+msgid "No Style Kit found in Trash."
+msgstr ""
+
+#: inc/elementor/class-tools.php:115
+#: languages/ang-translations.php:800
+msgid "Sorry, you are not allowed to rollback Style Kits plugin for this site."
+msgstr ""
+
+#: inc/elementor/class-tools.php:123
+#: languages/ang-translations.php:804
+msgid "Error occurred, the version selected is invalid. Try selecting different version."
+msgstr ""
+
+#: inc/elementor/class-tools.php:167
+#: languages/ang-translations.php:808
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#. translators: %s: Style kit title.
+#. translators: translators: %s: Style kit title. translators: translators: %s: Style kit title.
+#: inc/elementor/class-tools.php:231
+#: languages/ang-translations.php:814
+msgid "Style Kit: %s <span style=\"color:#5C32B6;\">&#9679;</span>"
+msgstr ""
+
+#: inc/elementor/class-tools.php:265
+#: languages/ang-translations.php:818
+msgid "Apply Global Style Kit"
+msgstr ""
+
+#: inc/elementor/class-tools.php:311
+#: languages/ang-translations.php:822
+msgid "Invalid/empty Post ID."
+msgstr ""
+
+#: inc/elementor/class-typography.php:143
+#: languages/ang-translations.php:826
+msgid "Headings Typography"
+msgstr ""
+
+#: inc/elementor/class-typography.php:151
+#: languages/ang-translations.php:830
+msgid "These settings apply to all Headings in your layout. You can still override individual values at each element."
+msgstr ""
+
+#. translators: %s: Heading 1-6 type
+#. translators: translators: %s: Heading 1-6 type translators: translators: %s: Heading 1-6 type
+#: inc/elementor/class-typography.php:175
+#: languages/ang-translations.php:836
+msgid "Heading %s"
+msgstr ""
+
+#: inc/elementor/class-typography.php:199
+#: inc/elementor/class-typography.php:221
+#: languages/ang-translations.php:841
+msgid "Body Typography"
+msgstr ""
+
+#: inc/elementor/class-typography.php:207
+#: languages/ang-translations.php:845
+msgid "Recently Imported"
+msgstr ""
+
+#: inc/elementor/class-typography.php:240
+#: languages/ang-translations.php:849
+msgid "Typographic Sizes"
+msgstr ""
+
+#: inc/elementor/class-typography.php:257
+#: languages/ang-translations.php:853
+msgid "Heading Sizes"
+msgstr ""
+
+#: inc/elementor/class-typography.php:264
+#: languages/ang-translations.php:857
+msgid "Edit the available sizes for the Heading Element."
+msgstr ""
+
+#: inc/elementor/class-typography.php:271
+#: inc/elementor/class-typography.php:320
+#: languages/ang-translations.php:862
+msgid "XXL"
+msgstr ""
+
+#: inc/elementor/class-typography.php:272
+#: inc/elementor/class-typography.php:321
+#: inc/elementor/class-typography.php:506
+#: languages/ang-translations.php:868
+msgid "XL"
+msgstr ""
+
+#: inc/elementor/class-typography.php:273
+#: inc/elementor/class-typography.php:322
+#: inc/elementor/class-typography.php:359
+#: inc/elementor/class-typography.php:861
+#: languages/ang-translations.php:875
+msgid "Large"
+msgstr ""
+
+#: inc/elementor/class-typography.php:274
+#: inc/elementor/class-typography.php:323
+#: inc/elementor/class-typography.php:358
+#: inc/elementor/class-typography.php:860
+#: languages/ang-translations.php:882
+msgid "Medium"
+msgstr ""
+
+#: inc/elementor/class-typography.php:275
+#: inc/elementor/class-typography.php:324
+#: inc/elementor/class-typography.php:357
+#: inc/elementor/class-typography.php:859
+#: languages/ang-translations.php:889
+msgid "Small"
+msgstr ""
+
+#: inc/elementor/class-typography.php:293
+#: languages/ang-translations.php:893
+msgid "Heading"
+msgstr ""
+
+#: inc/elementor/class-typography.php:306
+#: languages/ang-translations.php:897
+msgid "Text Sizes"
+msgstr ""
+
+#: inc/elementor/class-typography.php:313
+#: languages/ang-translations.php:901
+msgid "Edit the available sizes for the p, span, and div tags of the Heading Element."
+msgstr ""
+
+#: inc/elementor/class-typography.php:332
+#: languages/ang-translations.php:905
+msgid "Text"
+msgstr ""
+
+#: inc/elementor/class-typography.php:356
+#: inc/elementor/class-typography.php:858
+#: languages/ang-translations.php:910
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/class-typography.php:360
+#: inc/elementor/class-typography.php:862
+#: languages/ang-translations.php:915
+msgid "Extra Large"
+msgstr ""
+
+#: inc/elementor/class-typography.php:366
+#: inc/elementor/class-typography.php:850
+#: languages/ang-translations.php:920
+msgid "Outer Section Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:374
+#: languages/ang-translations.php:924
+msgid "Add padding to the outer sections of your layouts by using these controls."
+msgstr ""
+
+#: inc/elementor/class-typography.php:409
+#: languages/ang-translations.php:928
+msgid "Default Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:410
+#: languages/ang-translations.php:932
+msgid "Narrow Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:411
+#: languages/ang-translations.php:936
+msgid "Extended Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:412
+#: languages/ang-translations.php:940
+msgid "Wide Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:413
+#: languages/ang-translations.php:944
+msgid "Wider Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:419
+#: languages/ang-translations.php:948
+msgid "Column Gaps"
+msgstr ""
+
+#: inc/elementor/class-typography.php:427
+#: languages/ang-translations.php:952
+msgid "Column Gap presets add padding to the columns of a section."
+msgstr ""
+
+#: inc/elementor/class-typography.php:464
+#: languages/ang-translations.php:956
+msgid "Space Between Widgets"
+msgstr ""
+
+#: inc/elementor/class-typography.php:465
+#: languages/ang-translations.php:960
+msgid "Sets the default space between widgets, overrides the default value set in Elementor > Style > Space Between Widgets."
+msgstr ""
+
+#: inc/elementor/class-typography.php:487
+#: languages/ang-translations.php:964
+msgid "Button Sizes"
+msgstr ""
+
+#: inc/elementor/class-typography.php:495
+#: languages/ang-translations.php:968
+msgid "Define the default styles for every button size."
+msgstr ""
+
+#: inc/elementor/class-typography.php:502
+#: languages/ang-translations.php:972
+msgid "XS"
+msgstr ""
+
+#: inc/elementor/class-typography.php:503
+#: languages/ang-translations.php:976
+msgid "S"
+msgstr ""
+
+#: inc/elementor/class-typography.php:504
+#: languages/ang-translations.php:980
+msgid "M"
+msgstr ""
+
+#: inc/elementor/class-typography.php:505
+#: languages/ang-translations.php:984
+msgid "L"
+msgstr ""
+
+#: inc/elementor/class-typography.php:518
+#: languages/ang-translations.php:988
+msgid "Typography"
+msgstr ""
+
+#: inc/elementor/class-typography.php:535
+#: languages/ang-translations.php:992
+msgid "Normal Styling"
+msgstr ""
+
+#: inc/elementor/class-typography.php:543
+#: inc/elementor/class-typography.php:602
+#: inc/elementor/sections/background-color-classes.php:90
+#: inc/elementor/sections/background-color-classes.php:176
+#: languages/ang-translations.php:999
+msgid "Text Color"
+msgstr ""
+
+#: inc/elementor/class-typography.php:554
+#: inc/elementor/class-typography.php:613
+#: inc/elementor/sections/background-color-classes.php:76
+#: inc/elementor/sections/background-color-classes.php:162
+#: languages/ang-translations.php:1006
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/class-typography.php:581
+#: inc/elementor/class-typography.php:640
+#: languages/ang-translations.php:1011
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elementor/class-typography.php:594
+#: languages/ang-translations.php:1015
+msgid "Hover Styling"
+msgstr ""
+
+#: inc/elementor/class-typography.php:653
+#: languages/ang-translations.php:1019
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:717
+#: languages/ang-translations.php:1023
+msgid "You are editing the Global Style Kit."
+msgstr ""
+
+#: inc/elementor/class-typography.php:726
+#: languages/ang-translations.php:1027
+msgid "A Style Kit is a saved configuration of Theme Styles, that you can optionally apply on any page. This will override the Global theme Styles for this page."
+msgstr ""
+
+#: inc/elementor/class-typography.php:730
+#: languages/ang-translations.php:1031
+msgid "Page Style Kit"
+msgstr ""
+
+#: inc/elementor/class-typography.php:744
+#: inc/elementor/class-typography.php:746
+#: languages/ang-translations.php:1036
+msgid "Edit Theme Style Kit"
+msgstr ""
+
+#. translators: %s: Link to Style Kits
+#. translators: translators: %s: Link to Style Kits translators: translators: %s: Link to Style Kits
+#: inc/elementor/class-typography.php:757
+#: languages/ang-translations.php:1042
+msgid "You can set a Global Style Kit <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/elementor/class-typography.php:779
+#: languages/ang-translations.php:1046
+msgid "Theme Style Kit"
+msgstr ""
+
+#: inc/elementor/class-typography.php:784
+#: languages/ang-translations.php:1050
+msgid "This will reset the Theme Style Kit and clean up any values."
+msgstr ""
+
+#: inc/elementor/class-typography.php:788
+#: languages/ang-translations.php:1054
+msgid "Reset Theme Style Kit"
+msgstr ""
+
+#: inc/elementor/class-typography.php:790
+#: languages/ang-translations.php:1058
+msgid "Reset"
+msgstr ""
+
+#: inc/elementor/class-typography.php:795
+#: languages/ang-translations.php:1062
+msgid "Save the current styles as a different Theme Style Kit. You can then apply it on other pages, or globally."
+msgstr ""
+
+#: inc/elementor/class-typography.php:799
+#: languages/ang-translations.php:1066
+msgid "Save Theme Style Kit as"
+msgstr ""
+
+#: inc/elementor/class-typography.php:801
+#: languages/ang-translations.php:1070
+msgid "Save as&hellip;"
+msgstr ""
+
+#: inc/elementor/class-typography.php:809
+#: languages/ang-translations.php:1074
+msgid "Export Theme Style Kit CSS"
+msgstr ""
+
+#: inc/elementor/class-typography.php:811
+#: languages/ang-translations.php:1078
+msgid "Export"
+msgstr ""
+
+#: inc/elementor/class-typography.php:851
+#: languages/ang-translations.php:1082
+msgid "A Style Kits control that adds padding to your outer sections. You can edit the values"
+msgstr ""
+
+#: inc/elementor/class-typography.php:857
+#: languages/ang-translations.php:1086
+msgid "No Padding"
+msgstr ""
+
+#: inc/elementor/class-typography.php:1118
+#: languages/ang-translations.php:1090
+msgid "Headings"
+msgstr ""
+
+#: inc/elementor/class-typography.php:1127
+#: inc/elementor/sections/background-color-classes.php:133
+#: inc/elementor/sections/background-color-classes.php:219
+#: languages/ang-translations.php:1096
+msgid "Headings Color"
+msgstr ""
+
+#: inc/elementor/class-typography.php:1140
+#: languages/ang-translations.php:1100
+msgid "Headings Font"
+msgstr ""
+
+#: inc/elementor/class-typography.php:1151
+#: languages/ang-translations.php:1104
+msgid "You can set individual heading font and colors below."
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:110
+#: languages/ang-translations.php:1108
+msgid "No posts found."
+msgstr ""
+
+#. translators: %s: Human-readable time difference.
+#. translators: translators: %s: Human-readable time difference. translators: translators: %s: Human-readable time difference.
+#: inc/elementor/kit/Instance_List_Table.php:130
+#: inc/elementor/kit/Kits_List_Table.php:83
+#: languages/ang-translations.php:1115
+msgid "%s ago"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:135
+#: inc/elementor/kit/Kits_List_Table.php:88
+#: languages/ang-translations.php:1120
+msgid "Published"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:162
+#: inc/elementor/kit/Kits_List_Table.php:122
+#: languages/ang-translations.php:1125
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:163
+#: languages/ang-translations.php:1129
+msgid "Type"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:164
+#: languages/ang-translations.php:1133
+msgid "Kit"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:165
+#: inc/elementor/kit/Kits_List_Table.php:124
+#: languages/ang-translations.php:1138
+msgid "Author"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:166
+#: inc/elementor/kit/Kits_List_Table.php:125
+#: languages/ang-translations.php:1143
+msgid "Date"
+msgstr ""
+
+#. translators: %s: Post Title
+#. translators: %s: Kit Title
+#. translators: translators: %s: Post Title translators: %s: Kit Title translators: translators: %s: Post Title translators: %s: Kit Title
+#: inc/elementor/kit/Instance_List_Table.php:184
+#: inc/elementor/kit/Kits_List_Table.php:142
+#: languages/ang-translations.php:1151
+msgid "%s (Edit)"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:190
+#: inc/elementor/kit/Kits_List_Table.php:158
+#: languages/ang-translations.php:1156
+msgid "Edit"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:191
+#: inc/elementor/kit/Kits_List_Table.php:159
+#: languages/ang-translations.php:1161
+msgid "Trash"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:192
+#: languages/ang-translations.php:1165
+msgid "View"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:193
+#: languages/ang-translations.php:1169
+msgid "Edit with Elementor"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:281
+#: inc/elementor/kit/Kits_List_Table.php:258
+#: languages/ang-translations.php:1174
+msgid "Move to Trash"
+msgstr ""
+
+#. translators: %s: Number of posts.
+#. translators: translators: %s: Number of posts. translators: translators: %s: Number of posts.
+#: inc/elementor/kit/Instance_List_Table.php:297
+#: inc/elementor/kit/Kits_List_Table.php:276
+#: languages/ang-translations.php:1584
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/elementor/kit/Instance_List_Table.php:370
+#: languages/ang-translations.php:1178
+msgid "Filter by Style Kit"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:381
+#: languages/ang-translations.php:1182
+msgid "Filter"
+msgstr ""
+
+#: inc/elementor/kit/Instance_List_Table.php:451
+#: languages/ang-translations.php:1186
+msgid "Instance List"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:63
+#: languages/ang-translations.php:1190
+msgid "No Kits found."
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:99
+#: languages/ang-translations.php:1194
+msgid "Entire Site"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:101
+#: languages/ang-translations.php:1198
+msgid "None"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:123
+#: inc/register-settings.php:85
+#: languages/ang-translations.php:1203
+msgid "Instances"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:146
+#: languages/ang-translations.php:1207
+msgid "Draft"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:151
+#: languages/ang-translations.php:1211
+msgid "Global Style Kit"
+msgstr ""
+
+#: inc/elementor/kit/Kits_List_Table.php:160
+#: languages/ang-translations.php:1215
+msgid "Export Theme Style Kit"
+msgstr ""
+
+#. translators: %1$s: Settings library link. %2$s: Settings page link.
+#. translators: translators: %1$s: Settings library link. %2$s: Settings page link. translators: translators: %1$s: Settings library link. %2$s: Settings page link.
+#: inc/elementor/kit/Manager.php:305
+#: languages/ang-translations.php:1221
+msgid "Here is a quick overview of your available Theme Style Kits. They are also available in the %1$s. You can define a Global Theme Style Kit in %2$s."
+msgstr ""
+
+#: inc/elementor/kit/Manager.php:306
+#: languages/ang-translations.php:1225
+msgid "Elementor Template Library"
+msgstr ""
+
+#: inc/elementor/Promotions.php:50
+#: languages/ang-translations.php:1557
+msgctxt "Section Title"
+msgid "Layout Tools"
+msgstr ""
+
+#: inc/elementor/Promotions.php:61
+#: languages/ang-translations.php:1229
+msgid "Layout Tools"
+msgstr ""
+
+#: inc/elementor/Promotions.php:63
+#: languages/ang-translations.php:1233
+msgid "Handy tools to clean inline styles from your existing layouts and make them global-design-ready. Highlight elements that have Classes or custom CSS."
+msgstr ""
+
+#: inc/elementor/Promotions.php:87
+#: languages/ang-translations.php:1561
+msgctxt "Section Title"
+msgid "Forms (Extended)"
+msgstr ""
+
+#: inc/elementor/Promotions.php:98
+#: languages/ang-translations.php:1237
+msgid "Advanced Form Controls"
+msgstr ""
+
+#: inc/elementor/Promotions.php:100
+#: languages/ang-translations.php:1241
+msgid "Offers controls to customize form column/rows gap, label spacing, and form messages colors."
+msgstr ""
+
+#: inc/elementor/Promotions.php:156
+#: languages/ang-translations.php:1245
+msgid "Accent"
+msgstr ""
+
+#: inc/elementor/Promotions.php:165
+#: languages/ang-translations.php:1249
+msgid "Accent Background Color"
+msgstr ""
+
+#: inc/elementor/Promotions.php:167
+#: languages/ang-translations.php:1253
+msgid "Enjoy better background color control in your layouts by adding a third background color class. Available in Style Kits Pro."
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:52
+#: languages/ang-translations.php:1565
+msgctxt "Section Title"
+msgid "Background Color Classes"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:61
+#: languages/ang-translations.php:1257
+msgid "Light"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:68
+#: languages/ang-translations.php:1261
+msgid "Add the class <strong>sk-light-bg</strong> to a section or column to apply these colors."
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:147
+#: languages/ang-translations.php:1265
+msgid "Dark"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:154
+#: languages/ang-translations.php:1269
+msgid "Add the class <strong>sk-dark-bg</strong> to a section or column to apply these colors."
+msgstr ""
+
+#: inc/elementor/tags/class-dark-background.php:14
+#: languages/ang-translations.php:1273
+msgid "Dark Background"
+msgstr ""
+
+#: inc/elementor/tags/class-light-background.php:14
+#: languages/ang-translations.php:1277
+msgid "Light Background"
+msgstr ""
+
+#: inc/register-settings.php:38
+#: languages/ang-translations.php:1281
+msgid "Library"
+msgstr ""
+
+#: inc/register-settings.php:45
+#: inc/settings/views/html-admin-settings.php:28
+#: languages/ang-translations.php:1286
+msgid "Style Kits Settings"
+msgstr ""
+
+#: inc/register-settings.php:65
+#: inc/register-settings.php:66
+#: languages/ang-translations.php:1291
+msgid "Welcome to Style Kits"
+msgstr ""
+
+#: inc/register-settings.php:86
+#: languages/ang-translations.php:1295
+msgid "Instances List"
+msgstr ""
+
+#: inc/register-settings.php:262
+#: languages/ang-translations.php:1299
+msgid "Style Kits are now integrated into Elementor Theme Styles"
+msgstr ""
+
+#: inc/register-settings.php:265
+#: languages/ang-translations.php:1303
+msgid "With the introduction of Theme Styles in Elementor v2.9.0, \tStyle Kits are now <strong>integrated into the Theme Styles panel</strong>, bringing you a consistent, native experience."
+msgstr ""
+
+#: inc/register-settings.php:270
+#: languages/ang-translations.php:1307
+msgid "See what’s different in this quick video above."
+msgstr ""
+
+#: inc/register-settings.php:274
+#: languages/ang-translations.php:1311
+msgid "Need help?"
+msgstr ""
+
+#: inc/register-settings.php:276
+#: languages/ang-translations.php:1315
+msgid "Go to docs"
+msgstr ""
+
+#: inc/register-settings.php:277
+#: languages/ang-translations.php:1319
+msgid "Send a support ticket"
+msgstr ""
+
+#: inc/settings/class-settings-extensions.php:25
+#: languages/ang-translations.php:1323
+msgid "Extensions"
+msgstr ""
+
+#: inc/settings/class-settings-general.php:26
+#: inc/settings/class-settings-general.php:38
+#: languages/ang-translations.php:1328
+msgid "General"
+msgstr ""
+
+#: inc/settings/class-settings-general.php:61
+#: languages/ang-translations.php:1332
+msgid "Elementor Settings"
+msgstr ""
+
+#: inc/settings/class-settings-general.php:66
+#: languages/ang-translations.php:1588
+msgctxt "settings title"
+msgid "Global Style Kit"
+msgstr ""
+
+#. translators: %s: Style Kit Documentation link
+#. translators: translators: %s: Style Kit Documentation link translators: translators: %s: Style Kit Documentation link
+#: inc/settings/class-settings-general.php:69
+#: languages/ang-translations.php:1338
+msgid "Choosing a Style Kit will make it global and apply site-wide. Learn more about %s."
+msgstr ""
+
+#: inc/settings/class-settings-general.php:70
+#: languages/ang-translations.php:1342
+msgid "Style kits"
+msgstr ""
+
+#: inc/settings/class-settings-general.php:79
+#: languages/ang-translations.php:1592
+msgctxt "settings title"
+msgid "Template import method"
+msgstr ""
+
+#. translators: %s: Global Style Kit Documentation link
+#. translators: translators: %s: Global Style Kit Documentation link translators: translators: %s: Global Style Kit Documentation link
+#: inc/settings/class-settings-general.php:82
+#: languages/ang-translations.php:1348
+msgid "Always import templates using the Global Style Kit. %s"
+msgstr ""
+
+#: inc/settings/class-settings-general.php:83
+#: languages/ang-translations.php:1352
+msgid "Read more"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:23
+#: languages/ang-translations.php:1356
+msgid "Misc"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:42
+#: languages/ang-translations.php:1360
+msgid "Usage Data Tracking"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:43
+#: languages/ang-translations.php:1364
+msgid "Opt-in to our anonymous plugin data collection and to updates"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:48
+#: languages/ang-translations.php:1368
+msgid "We guarantee no sensitive data is collected. "
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:48
+#: languages/ang-translations.php:1372
+msgid "More Info"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:51
+#: languages/ang-translations.php:1376
+msgid "Remove Data on Uninstall"
+msgstr ""
+
+#: inc/settings/class-settings-misc.php:52
+#: languages/ang-translations.php:1380
+msgid "Check this box to remove all data stored by Style Kit for Elementor plugin, including license info, user settings, import history etc. Any imported or manually saved Style Kits are not removed."
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:25
+#: languages/ang-translations.php:1384
+msgid "Version Control"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:43
+#: languages/ang-translations.php:1388
+msgid "Rollback Versions"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:44
+#: languages/ang-translations.php:1392
+msgid "If you are having issues with current version of Style Kits for Elementor, you can rollback to a previous stable version."
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:49
+#: languages/ang-translations.php:1396
+msgid "Rollback Style Kits"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:61
+#: languages/ang-translations.php:1400
+msgid "Reinstall this version"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:73
+#: languages/ang-translations.php:1404
+msgid "Beta Features"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:78
+#: languages/ang-translations.php:1408
+msgid "Become a beta tester"
+msgstr ""
+
+#: inc/settings/class-settings-version-control.php:79
+#: languages/ang-translations.php:1412
+msgid "Check this box to turn on beta updates for Style Kits and Style Kits Pro. The update will not be installed automatically, you always have the option to ignore it."
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:14
+#: languages/ang-translations.php:1416
+msgid "Style Kits Pro gives you access to <u>premium template kits, blocks and Style Kits</u>, <br>plus a number of extra design features to power-up your design workflow in Elementor."
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:16
+#: languages/ang-translations.php:1420
+msgid "<strong>User role management</strong> so you can restrict access to Style Kits for your clients or editors"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:17
+#: languages/ang-translations.php:1424
+msgid "Handy tools to <strong>highlight Elements</strong> using custom CSS or custom CSS classes"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:18
+#: languages/ang-translations.php:1428
+msgid "<strong>Tools to clean-up</strong> any of your templates and layouts from inline styles, and make them Style-Kit-ready"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:19
+#: languages/ang-translations.php:1432
+msgid "<strong>Unsplash integration</strong> so you can import images from Unsplash right into your WordPress media gallery"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:21
+#: languages/ang-translations.php:1436
+msgid "And many more meaningful features"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings-gopro.php:22
+#: languages/ang-translations.php:1440
+msgid "Explore Style Kits Pro"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:53
+#: languages/ang-translations.php:1444
+msgid "Save changes"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:64
+#: languages/ang-translations.php:1448
+msgid "Upgrade to Style Kits Pro with a 15% discount"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:66
+#: languages/ang-translations.php:1452
+msgid "Unlimited access to Pro Template Kits, Blocks, and Theme Style presets"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:67
+#: languages/ang-translations.php:1456
+msgid "More Theme Style UI Controls"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:68
+#: languages/ang-translations.php:1460
+msgid "User Role management"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:69
+#: languages/ang-translations.php:1464
+msgid "Unsplash integration"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:70
+#: languages/ang-translations.php:1468
+msgid "Better color management"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:71
+#: languages/ang-translations.php:1472
+msgid "Smart layout tools"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:74
+#: languages/ang-translations.php:1476
+msgid "Find out more"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:77
+#: languages/ang-translations.php:1480
+msgid "Your Email"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:78
+#: languages/ang-translations.php:1484
+msgid "First Name"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:79
+#: languages/ang-translations.php:1488
+msgid "Last Name"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:80
+#: languages/ang-translations.php:1492
+msgid "Send me the coupon"
+msgstr ""
+
+#. translators: %s: Link to AnalogWP privacy policy.
+#. translators: translators: %s: Link to AnalogWP privacy policy. translators: translators: %s: Link to AnalogWP privacy policy.
+#: inc/settings/views/html-admin-settings.php:87
+#: languages/ang-translations.php:1498
+msgid "By submitting your details, you agree to our %s."
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:88
+#: languages/ang-translations.php:1502
+msgid "privacy policy"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:99
+#: languages/ang-translations.php:1506
+msgid "Need help with Style Kits?"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:100
+#: languages/ang-translations.php:1510
+msgid "Visit the online docs"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:104
+#: languages/ang-translations.php:1514
+msgid "Join our Facebook group"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:106
+#: languages/ang-translations.php:1518
+msgid "Get insights, tips and updates in our facebook community."
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:107
+#: languages/ang-translations.php:1522
+msgid "Join now"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:111
+#: languages/ang-translations.php:1526
+msgid "Sign up for email updates"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:112
+#: languages/ang-translations.php:1530
+msgid "Stay in the loop with Style Kits development by signing up to our newsletter."
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:115
+#: languages/ang-translations.php:1534
+msgid "Sign me up"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:117
+#: languages/ang-translations.php:1538
+msgid "By signing up you agree to our"
+msgstr ""
+
+#: inc/settings/views/html-admin-settings.php:117
+#: languages/ang-translations.php:1542
+msgid "privacy and terms"
+msgstr ""
+
+#. translators: Global Style Kit post title.
+#. translators: translators: Global Style Kit post title. translators: translators: Global Style Kit post title.
+#: inc/Utils.php:135
+#: inc/Utils.php:655
+#: languages/ang-translations.php:1549
+msgid "Global: %s"
+msgstr ""

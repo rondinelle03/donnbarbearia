@@ -1,0 +1,4 @@
+PROCESSED on Wed, 21 Oct 2020 15:50:14 +0000
+/wp-content/uploads/elementor/css/post-640.css
+/wp-content/uploads/elementor/css/post-933.css
+PROCESSED from https://www.donnbarbearia.com.br/fale-conosco/

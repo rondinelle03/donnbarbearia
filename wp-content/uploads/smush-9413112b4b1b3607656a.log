@@ -1,0 +1,324 @@
+[2020-11-25 04:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:01:34 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:44:58 : INFO] - 
+ 
+[2020-11-25 04:44:58 : INFO] - Header for logs at time:  Wed, 25 Nov 2020 04:44:58 +0000 on https://www.donnbarbearia.com.br 
+[2020-11-25 04:44:58 : INFO] - WP: 5.5.3 
+[2020-11-25 04:44:58 : INFO] - PHP: 7.3.23 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2020-11-25 04:44:58 : INFO] - MySQL: 5.7.29 
+[2020-11-25 04:44:58 : INFO] - WPLANG: pt_BR 
+[2020-11-25 04:44:58 : INFO] - Server: Apache 
+[2020-11-25 04:44:58 : INFO] - Outbound connections: N 
+[2020-11-25 04:44:58 : INFO] - safe_mode: 0 
+[2020-11-25 04:44:58 : INFO] - max_execution_time: 120 
+[2020-11-25 04:44:58 : INFO] - memory_limit: 256M (used: 37.2M | 38M) 
+[2020-11-25 04:44:58 : INFO] - multisite: N 
+[2020-11-25 04:44:58 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2020-11-25 04:44:58 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-11-25 04:44:58 : INFO] - Set semaphore last lock (smush) time to 2020-11-25 04:44:58 
+[2020-11-25 04:44:58 : INFO] - Semaphore lock (smush) complete 
+[2020-11-25 04:44:58 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2020-11-25 04:44:58 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:44:58 : INFO] - 100 
+[2020-11-25 04:45:00 : INFO] - Backing up the original image - 2020/11/5-anos-cards-updraft-pre-smush-original.png 
+[2020-11-25 04:45:01 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:45:01 : INFO] - 100 
+[2020-11-25 04:45:03 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:45:03 : INFO] - 100 
+[2020-11-25 04:45:05 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:45:05 : INFO] - 100 
+[2020-11-25 04:45:06 : INFO] - Re_Smush_It_Task with attachment ID : 1143, autocreated on : November 25, 2020 04:00:24 
+[2020-11-25 04:45:06 : INFO] - 100 
+[2020-11-25 04:45:08 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2020/11/5-anos-cards.png.The file was compressed from 686.16 KB to 548.19 KB saving 20.11 percent using WP-Optimize 
+[2020-11-25 04:45:08 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2020-11-25 04:45:08 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2020-11-25 04:45:08 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:45:08 : INFO] - 100 
+[2020-11-25 04:45:10 : INFO] - Backing up the original image - 2020/11/5-anos-cards-1-updraft-pre-smush-original.png 
+[2020-11-25 04:45:10 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:45:10 : INFO] - 100 
+[2020-11-25 04:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:45:11 : INFO] - 100 
+[2020-11-25 04:45:13 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:45:13 : INFO] - 100 
+[2020-11-25 04:45:14 : INFO] - Re_Smush_It_Task with attachment ID : 1145, autocreated on : November 25, 2020 04:01:33 
+[2020-11-25 04:45:14 : INFO] - 100 
+[2020-11-25 04:45:16 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2020/11/5-anos-cards-1.png.The file was compressed from 686.16 KB to 548.19 KB saving 20.11 percent using WP-Optimize 
+[2020-11-25 04:45:16 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2020-11-25 04:45:16 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-25 04:45:16 : INFO] - Semaphore (smush) unlocked 
+[2020-11-25 04:45:16 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-11-25 04:45:16 : INFO] - Semaphore (smush, wp_etqgff_options) was successfully cleaned up 
+[2020-11-25 04:45:16 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-11-25 05:11:01 : INFO] - 
+ 
+[2020-11-25 05:11:01 : INFO] - Header for logs at time:  Wed, 25 Nov 2020 05:11:01 +0000 on https://www.donnbarbearia.com.br 
+[2020-11-25 05:11:01 : INFO] - WP: 5.5.3 
+[2020-11-25 05:11:01 : INFO] - PHP: 7.3.23 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2020-11-25 05:11:01 : INFO] - MySQL: 5.7.29 
+[2020-11-25 05:11:01 : INFO] - WPLANG: pt_BR 
+[2020-11-25 05:11:01 : INFO] - Server: Apache 
+[2020-11-25 05:11:01 : INFO] - Outbound connections: N 
+[2020-11-25 05:11:01 : INFO] - safe_mode: 0 
+[2020-11-25 05:11:01 : INFO] - max_execution_time: 120 
+[2020-11-25 05:11:01 : INFO] - memory_limit: 256M (used: 36.5M | 20M) 
+[2020-11-25 05:11:01 : INFO] - multisite: N 
+[2020-11-25 05:11:01 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2020-11-25 05:11:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-01-15 02:28:34 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:31:01 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:33:51 : INFO] - 
+ 
+[2021-01-15 02:33:51 : INFO] - Header for logs at time:  Fri, 15 Jan 2021 02:33:51 +0000 on https://www.donnbarbearia.com.br 
+[2021-01-15 02:33:51 : INFO] - WP: 5.5.3 
+[2021-01-15 02:33:51 : INFO] - PHP: 7.3.23 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-01-15 02:33:51 : INFO] - MySQL: 5.7.29 
+[2021-01-15 02:33:51 : INFO] - WPLANG: pt_BR 
+[2021-01-15 02:33:51 : INFO] - Server: Apache 
+[2021-01-15 02:33:51 : INFO] - Outbound connections: N 
+[2021-01-15 02:33:51 : INFO] - safe_mode: 0 
+[2021-01-15 02:33:51 : INFO] - max_execution_time: 120 
+[2021-01-15 02:33:51 : INFO] - memory_limit: 256M (used: 37.2M | 38M) 
+[2021-01-15 02:33:51 : INFO] - multisite: N 
+[2021-01-15 02:33:51 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-01-15 02:33:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-01-15 02:33:51 : INFO] - Set semaphore last lock (smush) time to 2021-01-15 02:33:51 
+[2021-01-15 02:33:51 : INFO] - Semaphore lock (smush) complete 
+[2021-01-15 02:33:51 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2021-01-15 02:33:51 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:33:51 : INFO] - 100 
+[2021-01-15 02:33:54 : INFO] - Backing up the original image - 2021/01/donnbarbers-updraft-pre-smush-original.jpg 
+[2021-01-15 02:33:58 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:33:58 : INFO] - 100 
+[2021-01-15 02:33:59 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:33:59 : INFO] - 100 
+[2021-01-15 02:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:34:01 : INFO] - 100 
+[2021-01-15 02:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 1156, autocreated on : January 15, 2021 02:28:34 
+[2021-01-15 02:34:01 : INFO] - 100 
+[2021-01-15 02:34:02 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/01/donnbarbers.jpg.The file was compressed from 828.99 KB to 718.69 KB saving 13.31 percent using WP-Optimize 
+[2021-01-15 02:34:02 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2021-01-15 02:34:02 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2021-01-15 02:34:02 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:34:02 : INFO] - 100 
+[2021-01-15 02:34:05 : INFO] - Backing up the original image - 2021/01/donnchopp-updraft-pre-smush-original.jpg 
+[2021-01-15 02:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:34:06 : INFO] - 100 
+[2021-01-15 02:34:07 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:34:07 : INFO] - 100 
+[2021-01-15 02:34:08 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:34:08 : INFO] - 100 
+[2021-01-15 02:34:09 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : January 15, 2021 02:31:01 
+[2021-01-15 02:34:09 : INFO] - 100 
+[2021-01-15 02:34:10 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/01/donnchopp.jpg.The file was compressed from 863.07 KB to 613.98 KB saving 28.86 percent using WP-Optimize 
+[2021-01-15 02:34:10 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2021-01-15 02:34:10 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-01-15 02:34:10 : INFO] - Semaphore (smush) unlocked 
+[2021-01-15 02:34:10 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-01-15 02:34:10 : INFO] - Semaphore (smush, wp_etqgff_options) was successfully cleaned up 
+[2021-01-15 02:34:10 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-01-15 02:43:52 : INFO] - 
+ 
+[2021-01-15 02:43:52 : INFO] - Header for logs at time:  Fri, 15 Jan 2021 02:43:52 +0000 on https://www.donnbarbearia.com.br 
+[2021-01-15 02:43:52 : INFO] - WP: 5.5.3 
+[2021-01-15 02:43:52 : INFO] - PHP: 7.3.23 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-01-15 02:43:52 : INFO] - MySQL: 5.7.29 
+[2021-01-15 02:43:52 : INFO] - WPLANG: pt_BR 
+[2021-01-15 02:43:52 : INFO] - Server: Apache 
+[2021-01-15 02:43:52 : INFO] - Outbound connections: N 
+[2021-01-15 02:43:52 : INFO] - safe_mode: 0 
+[2021-01-15 02:43:52 : INFO] - max_execution_time: 120 
+[2021-01-15 02:43:52 : INFO] - memory_limit: 256M (used: 36.4M | 2M) 
+[2021-01-15 02:43:52 : INFO] - multisite: N 
+[2021-01-15 02:43:52 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-01-15 02:43:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-07-07 14:20:39 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:22:41 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:22:58 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:23:08 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 14:25:42 : INFO] - 
+ 
+[2021-07-07 14:25:42 : INFO] - Header for logs at time:  Wed, 07 Jul 2021 14:25:42 +0000 on https://www.donnbarbearia.com.br 
+[2021-07-07 14:25:42 : INFO] - WP: 5.6.4 
+[2021-07-07 14:25:42 : INFO] - PHP: 7.3.27 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-07-07 14:25:42 : INFO] - MySQL: 5.7.29 
+[2021-07-07 14:25:42 : INFO] - WPLANG: pt_BR 
+[2021-07-07 14:25:42 : INFO] - Server: Apache 
+[2021-07-07 14:25:42 : INFO] - Outbound connections: N 
+[2021-07-07 14:25:42 : INFO] - safe_mode: 0 
+[2021-07-07 14:25:42 : INFO] - max_execution_time: 120 
+[2021-07-07 14:25:42 : INFO] - memory_limit: 256M (used: 38.5M | 16M) 
+[2021-07-07 14:25:42 : INFO] - multisite: N 
+[2021-07-07 14:25:42 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-07-07 14:25:42 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-07-07 14:25:42 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 14:25:42 
+[2021-07-07 14:25:42 : INFO] - Semaphore lock (smush) complete 
+[2021-07-07 14:25:42 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-07-07 14:25:42 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:25:42 : INFO] - 100 
+[2021-07-07 14:25:48 : INFO] - Backing up the original image - 2021/07/Camada-1-updraft-pre-smush-original.png 
+[2021-07-07 14:25:48 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:25:48 : INFO] - 100 
+[2021-07-07 14:25:51 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:25:51 : INFO] - 100 
+[2021-07-07 14:26:01 : INFO] - Task with ID 1 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timed out after 10000 milliseconds 
+[2021-07-07 14:26:01 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-07-07 14:26:01 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:26:01 : INFO] - 100 
+[2021-07-07 14:26:03 : INFO] - Re_Smush_It_Task with attachment ID : 1164, autocreated on : July 07, 2021 02:20:39 
+[2021-07-07 14:26:03 : INFO] - 100 
+[2021-07-07 14:26:12 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/07/Camada-1.png.The file was compressed from 1.54 MB to 575.79 KB saving 63.44 percent using WP-Optimize 
+[2021-07-07 14:26:12 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-07-07 14:26:12 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 14:26:12 
+[2021-07-07 14:26:12 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-07-07 14:26:12 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:26:12 : INFO] - 100 
+[2021-07-07 14:26:15 : INFO] - Backing up the original image - 2021/07/Camada-1-1-updraft-pre-smush-original.png 
+[2021-07-07 14:26:15 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:26:15 : INFO] - 100 
+[2021-07-07 14:26:20 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:26:20 : INFO] - 100 
+[2021-07-07 14:27:46 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:27:46 : INFO] - 100 
+[2021-07-07 14:43:52 : INFO] - 
+ 
+[2021-07-07 14:43:52 : INFO] - Header for logs at time:  Wed, 07 Jul 2021 14:43:52 +0000 on https://www.donnbarbearia.com.br 
+[2021-07-07 14:43:52 : INFO] - WP: 5.6.4 
+[2021-07-07 14:43:52 : INFO] - PHP: 7.3.27 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-07-07 14:43:52 : INFO] - MySQL: 5.7.29 
+[2021-07-07 14:43:52 : INFO] - WPLANG: pt_BR 
+[2021-07-07 14:43:52 : INFO] - Server: Apache 
+[2021-07-07 14:43:52 : INFO] - Outbound connections: N 
+[2021-07-07 14:43:52 : INFO] - safe_mode: 0 
+[2021-07-07 14:43:52 : INFO] - max_execution_time: 120 
+[2021-07-07 14:43:52 : INFO] - memory_limit: 256M (used: 39.2M | 40M) 
+[2021-07-07 14:43:52 : INFO] - multisite: N 
+[2021-07-07 14:43:52 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-07-07 14:43:52 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-07-07 14:43:52 : INFO] - Semaphore (smush, wp_etqgff_options) was stuck, set lock time to 2021-07-07 14:43:52 
+[2021-07-07 14:43:52 : INFO] - Semaphore (smush, wp_etqgff_options) reset to 1 
+[2021-07-07 14:43:52 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 14:43:52 
+[2021-07-07 14:43:52 : INFO] - Semaphore lock (smush) complete 
+[2021-07-07 14:43:52 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-07-07 14:43:52 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:43:52 : INFO] - 100 
+[2021-07-07 14:43:56 : INFO] - Backing up the original image - 2021/07/Camada-1-1-updraft-pre-smush-original.png 
+[2021-07-07 14:43:56 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:43:56 : INFO] - 100 
+[2021-07-07 14:44:02 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-07-07 14:44:02 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/292f5f768509ae3b0efebadc2baebd0d\/_src_Camada-1-1-300x300.png","dest":"http:\/\/par2.static.resmush.it\/292f5f768509ae3b0efebadc2baebd0d\/Camada-1-1-300x300.png","src_size":43543,"dest_size":43535,"percent":0,"output":"json","expires":"Wed, 07 Jul 2021 16:48:56 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-07-07 14:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:44:02 : INFO] - 100 
+[2021-07-07 14:44:04 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:44:04 : INFO] - 100 
+[2021-07-07 14:44:05 : INFO] - Re_Smush_It_Task with attachment ID : 1166, autocreated on : July 07, 2021 02:22:41 
+[2021-07-07 14:44:05 : INFO] - 100 
+[2021-07-07 14:44:11 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-07-07 14:44:11 : INFO] - data: {"src":"http:\/\/par4.static.resmush.it\/392c480232f07dec729c0c1adb85103b\/_src_Camada-1-1-768x768.png","dest":"http:\/\/par4.static.resmush.it\/392c480232f07dec729c0c1adb85103b\/Camada-1-1-768x768.png","src_size":629512,"dest_size":250005,"percent":60,"output":"json","expires":"Wed, 07 Jul 2021 16:49:05 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-07-07 14:44:11 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/07/Camada-1-1.png.The file was compressed from 575.79 KB to 575.79 KB saving 0 percent using WP-Optimize 
+[2021-07-07 14:44:11 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-07-07 14:44:11 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-07-07 14:44:11 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:44:11 : INFO] - 100 
+[2021-07-07 14:44:16 : INFO] - Backing up the original image - 2021/07/Camada-2-updraft-pre-smush-original.png 
+[2021-07-07 14:54:57 : INFO] - 
+ 
+[2021-07-07 14:54:57 : INFO] - Header for logs at time:  Wed, 07 Jul 2021 14:54:57 +0000 on https://www.donnbarbearia.com.br 
+[2021-07-07 14:54:57 : INFO] - WP: 5.6.4 
+[2021-07-07 14:54:57 : INFO] - PHP: 7.3.27 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-07-07 14:54:57 : INFO] - MySQL: 5.7.29 
+[2021-07-07 14:54:57 : INFO] - WPLANG: pt_BR 
+[2021-07-07 14:54:57 : INFO] - Server: Apache 
+[2021-07-07 14:54:57 : INFO] - Outbound connections: N 
+[2021-07-07 14:54:57 : INFO] - safe_mode: 0 
+[2021-07-07 14:54:57 : INFO] - max_execution_time: 120 
+[2021-07-07 14:54:57 : INFO] - memory_limit: 256M (used: 39.2M | 40M) 
+[2021-07-07 14:54:57 : INFO] - multisite: N 
+[2021-07-07 14:54:57 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-07-07 14:54:57 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-07-07 14:54:57 : INFO] - Semaphore (smush, wp_etqgff_options) was stuck, set lock time to 2021-07-07 14:54:57 
+[2021-07-07 14:54:57 : INFO] - Semaphore (smush, wp_etqgff_options) reset to 1 
+[2021-07-07 14:54:57 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 14:54:57 
+[2021-07-07 14:54:57 : INFO] - Semaphore lock (smush) complete 
+[2021-07-07 14:54:57 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-07-07 14:54:57 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:54:57 : INFO] - 100 
+[2021-07-07 14:55:02 : INFO] - Backing up the original image - 2021/07/Camada-2-updraft-pre-smush-original.png 
+[2021-07-07 14:55:02 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:55:02 : INFO] - 100 
+[2021-07-07 14:55:04 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:55:04 : INFO] - 100 
+[2021-07-07 14:56:55 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:56:55 : INFO] - 100 
+[2021-07-07 14:56:56 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 14:56:56 : INFO] - 100 
+[2021-07-07 15:15:11 : INFO] - 
+ 
+[2021-07-07 15:15:11 : INFO] - Header for logs at time:  Wed, 07 Jul 2021 15:15:11 +0000 on https://www.donnbarbearia.com.br 
+[2021-07-07 15:15:11 : INFO] - WP: 5.6.4 
+[2021-07-07 15:15:11 : INFO] - PHP: 7.3.27 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-07-07 15:15:11 : INFO] - MySQL: 5.7.29 
+[2021-07-07 15:15:11 : INFO] - WPLANG: pt_BR 
+[2021-07-07 15:15:11 : INFO] - Server: Apache 
+[2021-07-07 15:15:11 : INFO] - Outbound connections: N 
+[2021-07-07 15:15:11 : INFO] - safe_mode: 0 
+[2021-07-07 15:15:11 : INFO] - max_execution_time: 120 
+[2021-07-07 15:15:11 : INFO] - memory_limit: 256M (used: 39.2M | 40M) 
+[2021-07-07 15:15:11 : INFO] - multisite: N 
+[2021-07-07 15:15:11 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-07-07 15:15:11 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-07-07 15:15:11 : INFO] - Semaphore (smush, wp_etqgff_options) was stuck, set lock time to 2021-07-07 15:15:11 
+[2021-07-07 15:15:11 : INFO] - Semaphore (smush, wp_etqgff_options) reset to 1 
+[2021-07-07 15:15:11 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 15:15:11 
+[2021-07-07 15:15:11 : INFO] - Semaphore lock (smush) complete 
+[2021-07-07 15:15:11 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-07-07 15:15:11 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 15:15:11 : INFO] - 100 
+[2021-07-07 15:15:13 : INFO] - Backing up the original image - 2021/07/Camada-2-updraft-pre-smush-original.png 
+[2021-07-07 15:15:13 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 15:15:13 : INFO] - 100 
+[2021-07-07 15:15:14 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 15:15:14 : INFO] - 100 
+[2021-07-07 15:15:17 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 15:15:17 : INFO] - 100 
+[2021-07-07 15:15:23 : INFO] - Task with ID 3 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-07-07 15:15:23 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/40f8cdbef234177c294d478860718ed0\/_src_Camada-2-150x150.png","dest":"http:\/\/par3.static.resmush.it\/40f8cdbef234177c294d478860718ed0\/Camada-2-150x150.png","src_size":14547,"dest_size":14547,"percent":0,"output":"json","expires":"Wed, 07 Jul 2021 17:20:18 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-07-07 15:15:23 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : July 07, 2021 02:22:58 
+[2021-07-07 15:15:23 : INFO] - 100 
+[2021-07-07 15:15:26 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/07/Camada-2.png.The file was compressed from 618.12 KB to 618.12 KB saving 0 percent using WP-Optimize 
+[2021-07-07 15:15:26 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-07-07 15:15:26 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-07-07 15:15:26 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 15:15:26 : INFO] - 100 
+[2021-07-07 15:15:29 : INFO] - Backing up the original image - 2021/07/Camada-3-updraft-pre-smush-original.png 
+[2021-07-07 15:15:29 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 15:15:29 : INFO] - 100 
+[2021-07-07 15:15:30 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 15:15:30 : INFO] - 100 
+[2021-07-07 15:15:33 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 15:15:33 : INFO] - 100 
+[2021-07-07 15:15:37 : INFO] - Re_Smush_It_Task with attachment ID : 1168, autocreated on : July 07, 2021 02:23:08 
+[2021-07-07 15:15:37 : INFO] - 100 
+[2021-07-07 15:15:38 : INFO] - Successfully optimized the image - /home/donnbarbearia/donnbarbearia.com.br/wp-content/uploads/2021/07/Camada-3.png.The file was compressed from 990.78 KB to 444.75 KB saving 55.11 percent using WP-Optimize 
+[2021-07-07 15:15:38 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-07-07 15:15:38 : INFO] - Set semaphore last lock (smush) time to 2021-07-07 15:15:38 
+[2021-07-07 15:15:38 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-07-07 15:15:38 : INFO] - Semaphore (smush) unlocked 
+[2021-07-07 15:15:38 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-07-07 15:15:38 : INFO] - Semaphore (smush, wp_etqgff_options) was successfully cleaned up 
+[2021-07-07 15:15:38 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-07-07 15:40:09 : INFO] - 
+ 
+[2021-07-07 15:40:09 : INFO] - Header for logs at time:  Wed, 07 Jul 2021 15:40:09 +0000 on https://www.donnbarbearia.com.br 
+[2021-07-07 15:40:09 : INFO] - WP: 5.6.4 
+[2021-07-07 15:40:09 : INFO] - PHP: 7.3.27 (cgi-fcgi, Linux samuel-huntington 5.4.32-grsec-grsec-plus+ #1 SMP Sat Apr 18 03:13:45 UTC 2020 x86_64) 
+[2021-07-07 15:40:09 : INFO] - MySQL: 5.7.29 
+[2021-07-07 15:40:09 : INFO] - WPLANG: pt_BR 
+[2021-07-07 15:40:09 : INFO] - Server: Apache 
+[2021-07-07 15:40:09 : INFO] - Outbound connections: N 
+[2021-07-07 15:40:09 : INFO] - safe_mode: 0 
+[2021-07-07 15:40:09 : INFO] - max_execution_time: 120 
+[2021-07-07 15:40:09 : INFO] - memory_limit: 256M (used: 39.2M | 40M) 
+[2021-07-07 15:40:09 : INFO] - multisite: N 
+[2021-07-07 15:40:09 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2021-07-07 15:40:09 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

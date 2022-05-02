@@ -1,0 +1,5 @@
+PROCESSED on Sat, 01 Aug 2020 19:31:44 +0000
+/wp-content/uploads/elementor/css/post-640.css
+/wp-content/uploads/elementor/css/post-933.css
+/wp-content/uploads/essential-addons-elementor/67db7eaf4ef8971c.min.css
+PROCESSED from https://www.donnbarbearia.com.br/donn-barbearia-agora-conta-com-servico-delivery/
